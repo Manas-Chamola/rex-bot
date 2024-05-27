@@ -1,0 +1,11 @@
+{
+    "eslint.enable": true,
+    "eslint.run": "onType",
+    "eslint.options": {
+      "extensions": [".js", ".jsx", ".ts", ".tsx"]
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+  
